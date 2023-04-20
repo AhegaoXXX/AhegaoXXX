@@ -1,5 +1,8 @@
 <div id="badges" align="center">
   <p>
+    <img src="https://komarev.com/ghpvc/?username=Ahegao&style=flat-square&color=purple" alt=""/>
+  </p>
+  <p>
     <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

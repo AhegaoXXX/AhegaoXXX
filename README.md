@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
     <img src="https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=purple" alt="Redux Badge"/>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge"/>
-    <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=cyan" alt="Jira Badge"/>
+    <img src="https://img.shields.io/badge/Jira-gray?style=for-the-badge&logo=jira&logoColor=cyan" alt="Jira Badge"/>
     <img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=blue" alt="Trello Badge"/>
     <img src="https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php&logoColor=purple" alt="PHP Badge"/>
     <img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=orange" alt="Postman Badge"/>

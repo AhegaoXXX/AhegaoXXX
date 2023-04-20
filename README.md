@@ -2,8 +2,14 @@
 
 <div id="badges">
   <p>
-    <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/">
+    <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://leetcode.com/AhegaoXXX//" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=leetcode&logoColor=gold" alt="LeetCode Badge"/>
+    </a>
+    <a href="https://t.me/atlantic_phantasm/" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
   </p>
     <img src="https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>

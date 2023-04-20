@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVmZDAwZDc5MGI1NzMzMTA4MWU1YWVjNDA5NGNkZTU2ZmJkOTg3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="100"/>
+</div>
+<div id="badges" align="center">
   <p>
     <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

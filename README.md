@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-<h1>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="120">
-</h1>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL">via GIPHY</a></p>

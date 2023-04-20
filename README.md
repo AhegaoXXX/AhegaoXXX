@@ -1,6 +1,6 @@
 <div id="badges" align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Ahegao&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Ahegao&style=flat-square&color=green" alt=""/>
   </p>
   <p>
     <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/" target="_blank">

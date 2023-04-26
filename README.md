@@ -53,7 +53,7 @@
 
 ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=green-nur&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
   
 </div>
 

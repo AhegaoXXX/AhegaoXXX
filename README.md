@@ -12,9 +12,6 @@
     <a href="https://t.me/atlantic_phantasm/" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
-    <a href="https://discord.gg/___#8443" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord Badge"/>
-    </a>
 </p>
   </p>
 

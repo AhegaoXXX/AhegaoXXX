@@ -1,10 +1,5 @@
 <div id="badges" align="center">
   <p>
-    <a href="https://discord.gg/___#8443" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="60" height="60"/>
-    </a>
-  </p>
-  <p>
     <img src="https://komarev.com/ghpvc/?username=Ahegao&style=flat-square&color=green" alt=""/>
   </p>
   <p>

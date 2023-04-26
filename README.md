@@ -66,7 +66,7 @@
   
 ###
 
-<img src="https://github.com/AhegaoXXX/AhegaoXXX/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/AhegaoXXX/AhegaoXXX/blob/output/snake.svg" alt="Snake animation" />
   
 </div>
 

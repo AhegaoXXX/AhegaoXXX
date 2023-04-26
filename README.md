@@ -1,7 +1,7 @@
 <div id="badges" align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Ahegao&style=flat-square&color=green" alt=""/>
-  </p>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/AhegaoXXX/count.svg?"  />
+  </div>
   <p>
     <a href="https://www.linkedin.com/in/elmurat-dzhumabaev-386557245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,7 +63,14 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=green-nur&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
   
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AhegaoXXX/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AhegaoXXX/AhegaoXXX/blob/output/snake.svg" alt="Snake animation" />
   
 </div>
 

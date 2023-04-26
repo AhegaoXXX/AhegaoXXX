@@ -49,7 +49,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" **alt="Babel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
+  ---
+
+### :fire: My Stats :
+  
+  https://github-readme-streak-stats.herokuapp.com/?user=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVmZDAwZDc5MGI1NzMzMTA4MWU1YWVjNDA5NGNkZTU2ZmJkOTg3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="600" height="400"/>
 </div>

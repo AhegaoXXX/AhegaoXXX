@@ -13,7 +13,6 @@
       <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
   </p>
-  ---
 
   ### :hammer_and_wrench: Languages and Tools :
   

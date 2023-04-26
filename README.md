@@ -66,7 +66,9 @@
   
 ###
 
-![Snake animation](https://github.com/AhegaoXXX/AhegaoXXX/blob/output/github-contribution-grid-snake.svg)
+<img src="[https://raw.githubusercontent.com/AhegaoXXX/AhegaoXXX/blob/output/](https://github.com/AhegaoXXX/AhegaoXXX/blob/output/)snake.svg" alt="Snake animation" />
+
+###
   
 </div>
 

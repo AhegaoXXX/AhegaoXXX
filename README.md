@@ -62,11 +62,11 @@
 
 ### :fire: My Stats :
   
-  ![Snake animation](https://github.com/AhegaoXXX/AhegaoXXX/blob/output/github-contribution-grid-snake.svg)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=green-nur&mode=weekly&card_width=600)](https://git.io/streak-stats)
   
 ###
 
-<img src="https://github.com/AhegaoXXX/AhegaoXXX/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

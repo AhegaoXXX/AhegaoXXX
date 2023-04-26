@@ -12,7 +12,9 @@
     <a href="https://t.me/atlantic_phantasm/" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
-    <a href="https://discord.gg/___#8443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="___#8443" height="30" width="40" /></a>
+    <a href="https://discord.gg/___#8443" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord"/>
+    </a>
 </p>
   </p>
 

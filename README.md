@@ -17,6 +17,9 @@
     <a href="https://t.me/atlantic_phantasm/" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
+    <a href="https://discord.gg/___#8443" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord Badge"/>
+    </a>
 </p>
   </p>
 
@@ -67,6 +70,8 @@
 ### :fire: My Stats :
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhegaoXXX&theme=green-nur&hide_border=true&mode=weekly&card_width=600)](https://git.io/streak-stats)
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
   
 </div>
 

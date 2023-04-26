@@ -12,6 +12,8 @@
     <a href="https://t.me/atlantic_phantasm/" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
+    <a href="https://discord.gg/___#8443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="___#8443" height="30" width="40" /></a>
+</p>
   </p>
 
   ### :hammer_and_wrench: Languages and Tools :
@@ -48,7 +50,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" **alt="Babel" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="60" height="60"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="NextJS" **alt="NextJS" width="60" height="60"/>&nbsp;
 </div>
+  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVmZDAwZDc5MGI1NzMzMTA4MWU1YWVjNDA5NGNkZTU2ZmJkOTg3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="600" height="400"/>
+</div>
+  
   ---
 
 ### :fire: My Stats :
@@ -57,6 +66,4 @@
   
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVmZDAwZDc5MGI1NzMzMTA4MWU1YWVjNDA5NGNkZTU2ZmJkOTg3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="600" height="400"/>
-</div>
+

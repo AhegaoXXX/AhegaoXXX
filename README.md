@@ -18,7 +18,17 @@
 
   ### :hammer_and_wrench: Languages and Tools :
   
-<div align="center" style="width: 80%">
+ <style>
+  .container {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+  }
+</style>
+  
+<div align="center" class="container">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="60" height="60"/>&nbsp;

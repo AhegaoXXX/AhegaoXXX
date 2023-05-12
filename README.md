@@ -18,7 +18,7 @@
 
   ### :hammer_and_wrench: Languages and Tools :
   
-<div width="50%">
+<div align="center" width="80%">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="60" height="60"/>&nbsp;
